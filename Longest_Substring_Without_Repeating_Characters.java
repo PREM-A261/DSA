@@ -1,9 +1,7 @@
-package DAY3;
-
 import java.util.HashSet;
 
 public class Longest_Substring_Without_Repeating_Characters {
-    public static void main(String[] args) {
+ public static void main(String[] args) {
         String s = "abcdabcbb";
         HashSet<Character> set = new HashSet<>();
         int maxLength = 0;
@@ -22,5 +20,5 @@ public class Longest_Substring_Without_Repeating_Characters {
 
         System.out.println(maxLength);
 
-    }
+    }   
 }
