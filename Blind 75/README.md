@@ -4,4 +4,5 @@
 *  Contains Duplicate
 *  Product Of An Array Except Itself
 *  Maximum subarray sum
+*  Maximum product subarray
 *  Group Anagrams
