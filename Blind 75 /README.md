@@ -1,2 +1,2 @@
 # Blind  75 
-Q1
+Q1 Two Sum
